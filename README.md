@@ -7,7 +7,7 @@ This is data modeling with **Apache Cassandra** project for Udacity Data Enginee
 The code is **Python** in a **Jupyter Notebook** and it uses:
 
 * [Apache Cassandra](https://cassandra.apache.org/)
-* [Psycopg](https://pypi.org/project/psycopg2/)
+* [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 
 ## Run the Code
